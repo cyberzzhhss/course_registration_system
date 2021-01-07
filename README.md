@@ -69,3 +69,4 @@ Make sure it contains "CallingClass.java"
 
 ![alt text](https://github.com/cyberzzhhss/course_registration_system/blob/main/UML.png)
 
+![alt text](https://github.com/cyberzzhhss/course_registration_system/blob/main/Documentation.pdf)
