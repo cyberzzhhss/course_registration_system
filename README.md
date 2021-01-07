@@ -12,7 +12,8 @@ In order to create a Student, you have to log in as an Admin and go to (1)Course
 The following instruction is for Mac users, not sure about Windows users.
 
 If Windows user have trouble making the program work, please email me as soon as possible.
-The main java file that runs is "CallingClass.java" in the "src" file.
+
+The main java file that runs is "CallingClass.java" in the "src" file.
 
 There are 2 ways to run the program successfully
 
@@ -61,4 +62,10 @@ Make sure it contains "CallingClass.java"
 
 	(iv)Then, you type the line to run the program
 "java CallingClass"
+
+
+
+
+
+![alt text](https://github.com/cyberzzhhss/course_registration_system/blob/main/UML.png)
 
